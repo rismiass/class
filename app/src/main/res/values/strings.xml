@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TipTime</string>
+    <string name="answer">Стоимость сервиса</string>
+    <string name="name_question">Каким был сервис?</string>
+    <string name="excellent">Превосходным(20%)</string>
+    <string name="good">Хорошим(18%)</string>
+    <string name="ok">Норальным(15%)</string>
+    <string name="switch_text">Округлять вверх</string>
+    <string name="text_button">Высчитать</string>
+    <string name="result_name">Величина чаевых</string>
+</resources>
