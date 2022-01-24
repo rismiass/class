@@ -16,7 +16,7 @@ class MainActivity : AppCompatActivity() {
         val cost = binding.editCost
         val round = binding.roundup
         val group = binding.radiogroup
-        var res = binding.result
+        val res = binding.result
 
         binding.button1.setOnClickListener {
             var text = 0.0
